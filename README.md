@@ -56,17 +56,17 @@ A página foi desenvolvida para se adaptar a diferentes tamanhos de tela:
   }
   ```
 
-## Melhorias Futuras
-
-- Adicionar um menu de navegação interativo.
-- Implementar animações para transições de conteúdo.
-- Inclusão de um mapa interativo de Busan.
-
 ## Screenshot do Projeto
 
-![Landing page](assets/capa.png)
+![WhatsApp Image 2025-02-04 at 10 07 13](https://github.com/user-attachments/assets/a7ecd801-3a50-44e6-88c6-914a35131720)
+
+
 
 ## Autor
+
+
+
+
 
 Desenvolvido por Rocketseat.
 
